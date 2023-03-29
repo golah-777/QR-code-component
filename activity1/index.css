@@ -1,0 +1,50 @@
+
+
+.main{
+  background:hsl(212, 45%, 89%);
+  font-family: 'Roboto', sans-serif;
+}
+.center{
+display: inline-block;
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;
+margin: auto;
+}
+
+.img{
+  width: 100%;
+  border-radius: 15px;
+}
+
+.contain{
+  height: 480.82px;
+  width: 310px;
+  display:grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  display: inline-block;
+  text-align: center;
+  border-radius: 19px;
+  border-width: 1px;
+  padding: 16px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  background-color: white;
+  }
+
+.p{
+  margin: 20px 0px 20px 0px;
+  font-weight: 700;
+}
+
+.pp{
+  margin: 0;
+  margin: 0px 18px 0px 18px;
+  font-weight: 400;
+}
